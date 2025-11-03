@@ -13,7 +13,7 @@ export default function PrivacyPage() {
               <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8 pb-4 border-b border-gray-200">Privacy Policy</h1>
               
               <p className="text-gray-600 mb-6 leading-relaxed">
-                This privacy policy ("Privacy Policy") describes how ForeverLifeLabs and/or our owners and/or affiliates (collectively "Company," "our," "we," or "us") collect, use, disclose, and protect information about you provide through the ForeverLifeLabs website located at foreverlifelabsrx.com. (together, the "Site"). This Privacy Policy applies only to information that is collected in connection with your use of the Site. It does not apply to any other offerings, products or services. If you do not want us to collect, use or disable information about you and your use of the Site as described in this Privacy Policy, then you should not use the Site. By using the Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use.
+                This privacy policy ("Privacy Policy") describes how Semaswiss and/or our owners and/or affiliates (collectively "Company," "our," "we," or "us") collect, use, disclose, and protect information about you provide through the Semaswiss website located at semaswiss.com. (together, the "Site"). This Privacy Policy applies only to information that is collected in connection with your use of the Site. It does not apply to any other offerings, products or services. If you do not want us to collect, use or disable information about you and your use of the Site as described in this Privacy Policy, then you should not use the Site. By using the Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use.
               </p>
 
               <p className="text-gray-600 mb-6 leading-relaxed">
@@ -70,7 +70,7 @@ export default function PrivacyPage() {
                 <li>Communicate service-related or required notices about the Site to you, which may include communications by email or by text messages (i.e., SMS) at the mobile device number you provide us.</li>
                 <li>Detect, prevent, and respond to suspected fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Site.</li>
                 <li>Perform data analytics, including to compile, synthesize, generate and analyze anonymous usage and other aggregated statistics and information.</li>
-                <li>Monitor your use of the BIN/PCN/ForeverlifelabsGroup/Member ID or other information we provide to you.</li>
+                <li>Monitor your use of the BIN/PCN/SemaswissGroup/Member ID or other information we provide to you.</li>
               </ul>
 
               <p className="text-gray-600 mb-6 leading-relaxed">
@@ -145,7 +145,7 @@ export default function PrivacyPage() {
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Retention</h2>
               <p className="text-gray-600 mb-6">
-                                We will retain your personal information in accordance with our record retention policies and as permitted by applicable law unless you instruct us to remove it by contact us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>. We will also retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements. You can update the personal information you have provided to us at any time by writing to the program administrator at ForeverLifeLabs/ Pharmacy. Attn: 30 N Gould St Ste R, Miami, FL, 33131.
+                                We will retain your personal information in accordance with our record retention policies and as permitted by applicable law unless you instruct us to remove it by contact us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>. We will also retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements. You can update the personal information you have provided to us at any time by writing to the program administrator at Semaswiss/ Pharmacy. Attn: 30 N Gould St Ste R, Miami, FL, 33131.
               </p>
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Access from Outside the United States</h2>
