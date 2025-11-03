@@ -39,7 +39,7 @@ export default function TermsPage() {
                             <p className="text-gray-600 mb-6">
                                 The Sema Swiss Privacy Policy and California Privacy Notice are part of these Terms of Use and are incorporated into the Terms of Use by this reference.
                                 By accepting these Terms of Use, you agree to our collection, use, and disclosure of information as described in the Privacy Policy and California Privacy Notice as modified from time to time.
-                                We encourage you to review the Privacy Policy and California Privacy Notice at <a href="/privacy" className="text-sema-red hover:underline">PRIVACY</a> and <a href="/privacy" className="text-sema-red hover:underline">CCPA</a>.
+                                We encourage you to review the Privacy Policy and California Privacy Notice at <a href="/privacy" className="text-sema-red hover:underline">PRIVACY</a> and <a href="/ccpa" className="text-sema-red hover:underline">CCPA</a>.
                             </p>
 
                             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Not Medical Advice</h2>
@@ -77,7 +77,7 @@ export default function TermsPage() {
                             </p>
 
                             <p className="text-gray-600 mb-6">
-                                While there may be a preferred pharmacy used, patient has the ability to direct their prescription to any pharmacy of their choosing. Please email <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a> if you would like to use your own pharmacy before completing your order.
+                                While there may be a preferred pharmacy used, patient has the ability to direct their prescription to any pharmacy of their choosing. Please email <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a> if you would like to use your own pharmacy before completing your order.
                             </p>
                             <p className="text-gray-600 mb-6">
                                 There is no guarantee that a patient will be treated by a provider.  As determined by the provider, care or specific treatments may not be appropriate for each patient.  Each provider reserves the right to deny care for potential misuse of services or for any other reason if, in the professional judgment of the provider, the provision of services is not medically or ethically appropriate.  There is no guarantee that a patient will be issued a prescription and that the decision of whether a prescription is appropriate will be made in the professional judgment of the provider.
@@ -372,13 +372,13 @@ export default function TermsPage() {
                              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Contact Us</h2>
                              
                              <p className="text-gray-600 mb-6">
-                                 If you have any questions or concerns about the Site or these TERMS OF USE, please contact us at <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a>
+                                 If you have any questions or concerns about the Site or these TERMS OF USE, please contact us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>
                              </p>
 
                              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Digital Millennium Copyright Act ("DMCA") Notice</h2>
                              
                              <p className="text-gray-600 mb-4">
-                                 In operating the Site, we may act as a "services provider" (as defined by DMCA) and offer services as an online provider of materials and links to third party websites. As a result, third party materials that we do not own or control may be transmitted, stored, accessed or otherwise made available while using the Site. Sema Swiss has in place certain legally mandated procedures regarding allegations of copyright infringement occurring on the Site. We have adopted a policy that provides for the immediate removal of any content or the suspension of any user that is found to have infringed on the rights of <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a> or of a third party, or that has otherwise violated any intellectual property laws or regulations, or any of the terms and conditions of these Terms of Use.
+                                 In operating the Site, we may act as a "services provider" (as defined by DMCA) and offer services as an online provider of materials and links to third party websites. As a result, third party materials that we do not own or control may be transmitted, stored, accessed or otherwise made available while using the Site. Sema Swiss has in place certain legally mandated procedures regarding allegations of copyright infringement occurring on the Site. We have adopted a policy that provides for the immediate removal of any content or the suspension of any user that is found to have infringed on the rights of <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a> or of a third party, or that has otherwise violated any intellectual property laws or regulations, or any of the terms and conditions of these Terms of Use.
                              </p>
                              
                              <p className="text-gray-600 mb-4">
@@ -390,7 +390,7 @@ export default function TermsPage() {
                              </p>
                              
                              <p className="text-gray-600 mb-6">
-                                 Our designated agent (i.e., proper party for notice) to whom you should address infringement notices under the DMCA is <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a>.
+                                 Our designated agent (i.e., proper party for notice) to whom you should address infringement notices under the DMCA is <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>.
                              </p>
                         </div>
           </div>

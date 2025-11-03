@@ -122,9 +122,9 @@ export default function HipaaPage() {
 
                <div className="bg-gray-50 p-6 md:p-8 rounded-lg mb-8">
                  <p className="text-gray-900 font-semibold mb-2">Sema Swiss Privacy Officer</p>
-                 <p className="text-gray-600 mb-1">1395 Brickell Ave. Suite 800</p>
-                 <p className="text-gray-600 mb-1">Miami, FL 33131</p>
-                 <p className="text-gray-600">Email: <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a></p>
+                 <p className="text-gray-600 mb-1">30 N Gould St Ste R</p>
+                 <p className="text-gray-600 mb-1">Sheridan, WY 82801</p>
+                 <p className="text-gray-600">Email: <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a></p>
                </div>
 
                <p className="text-gray-600 mb-4 leading-relaxed">

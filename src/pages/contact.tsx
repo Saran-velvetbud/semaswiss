@@ -143,8 +143,8 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Address</h3>
                 <p className="text-gray-600 text-center">
-                  1395 Brickell Ave. Suite 800<br />
-                  Miami, FL 33131
+                  30 N Gould St Ste R<br />
+                  Sheridan, WY 82801
                 </p>
               </div>
 
@@ -154,8 +154,8 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
                 <p className="text-gray-600">
-                  <a href="mailto:support@semaswiss.com" className="hover:text-sema-red transition-colors">
-                    support@semaswiss.com
+                  <a href="mailto:admin@semaswiss.com " className="hover:text-sema-red transition-colors">
+                    admin@semaswiss.com 
                   </a>
                 </p>
               </div>
@@ -167,7 +167,7 @@ export default function ContactPage() {
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Phone</h3>
                 <p className="text-gray-600">
                   <a href="tel:+18339913032" className="hover:text-sema-red transition-colors">
-                    +1-833-991-3032
+                    +1-844-821-9675
                   </a>
                 </p>
               </div>

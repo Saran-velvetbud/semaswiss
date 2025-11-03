@@ -112,7 +112,7 @@ export default function PrivacyPage() {
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Your Choices</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                                You may opt out of receiving marketing emails by using the unsubscribe information available in any marketing email, or by emailing us at <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a>. To the extent that you use the Site, there are certain messages you may not opt out of receiving, such as non-promotional email messages about programs or services you have registered for or certain administrative, technical, or safety notices about the Site or our products or services.
+                                You may opt out of receiving marketing emails by using the unsubscribe information available in any marketing email, or by emailing us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>. To the extent that you use the Site, there are certain messages you may not opt out of receiving, such as non-promotional email messages about programs or services you have registered for or certain administrative, technical, or safety notices about the Site or our products or services.
               </p>
 
               <p className="text-gray-600 mb-6 leading-relaxed">
@@ -126,7 +126,7 @@ export default function PrivacyPage() {
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">California Residents</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                                Pursuant to California Civil Code Section 1798.83, if you are a California resident, you have the right to request information about how and to whom we disclose certain categories of your personal information for their direct marketing purposes, once per calendar year. You can make this request to us via email at: <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a> or by calling toll-free at <a href="tel:+18339913032" className="text-sema-red hover:underline">+1-833-991-3032</a>.
+                                Pursuant to California Civil Code Section 1798.83, if you are a California resident, you have the right to request information about how and to whom we disclose certain categories of your personal information for their direct marketing purposes, once per calendar year. You can make this request to us via email at: <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a> or by calling toll-free at <a href="tel:+18339913032" className="text-sema-red hover:underline">+1-844-821-9675</a>.
               </p>
               
               <p className="text-gray-600 mb-6">
@@ -145,7 +145,7 @@ export default function PrivacyPage() {
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Retention</h2>
               <p className="text-gray-600 mb-6">
-                                We will retain your personal information in accordance with our record retention policies and as permitted by applicable law unless you instruct us to remove it by contact us at <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a>. We will also retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements. You can update the personal information you have provided to us at any time by writing to the program administrator at ForeverLifeLabs/ Pharmacy. Attn: 1395 Brickell Ave. Suite 800, Miami, FL, 33131.
+                                We will retain your personal information in accordance with our record retention policies and as permitted by applicable law unless you instruct us to remove it by contact us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a>. We will also retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements. You can update the personal information you have provided to us at any time by writing to the program administrator at ForeverLifeLabs/ Pharmacy. Attn: 30 N Gould St Ste R, Miami, FL, 33131.
               </p>
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Access from Outside the United States</h2>
@@ -160,13 +160,13 @@ export default function PrivacyPage() {
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">Contact Us</h2>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                If you have any questions about this Privacy Policy, please send them to <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a> or you may call us at <a href="tel:+18339913032" className="text-sema-red hover:underline">+1-833-991-3032</a>. You may also write to us in care of our administrator at:
+                If you have any questions about this Privacy Policy, please send them to <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a> or you may call us at <a href="tel:+18339913032" className="text-sema-red hover:underline">+1-844-821-9675</a>. You may also write to us in care of our administrator at:
               </p>
 
               <div className="bg-gray-50 p-6 md:p-8 rounded-lg mb-8">
                 <p className="text-gray-900 font-semibold mb-2">Attn: Privacy Team/Regulatory Compliance</p>
-                <p className="text-gray-600 mb-1">1395 Brickell Ave. Suite 800</p>
-                <p className="text-gray-600">Miami, FL 33131</p>
+                <p className="text-gray-600 mb-1">30 N Gould St Ste R</p>
+                <p className="text-gray-600">Sheridan, WY 82801</p>
               </div>
 
              

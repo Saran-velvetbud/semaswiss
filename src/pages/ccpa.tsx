@@ -114,7 +114,7 @@ export default function CcpaPage() {
                 Submitting Requests to Know or Delete
               </h3>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                You can submit a request by emailing us at <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a> or visiting <a href="https://semaswiss.com/contact-us" className="text-sema-red hover:underline">semaswiss.com/contact-us</a>.
+                You can submit a request by emailing us at <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a> or visiting <a href="https://semaswiss.com/contact" className="text-sema-red hover:underline">semaswiss.com/contact</a>.
               </p>
 
               <p className="text-gray-600 mb-4 leading-relaxed">
@@ -138,8 +138,8 @@ export default function CcpaPage() {
               </h2>
               <div className="bg-gray-50 p-6 md:p-8 rounded-lg mb-8">
                 <p className="text-gray-900 font-semibold mb-2">Semaswiss Privacy Team</p>
-                <p className="text-gray-600 mb-1">Email: <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">support@semaswiss.com</a></p>
-                <p className="text-gray-600">Address: 7901 4th St. N STE 300, St Petersburg, FL, 33702</p>
+                <p className="text-gray-600 mb-1">Email: <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">admin@semaswiss.com </a></p>
+                <p className="text-gray-600">Address: 30 N Gould St Ste R, Sheridan, WY 82801</p>
               </div>
 
             </div>

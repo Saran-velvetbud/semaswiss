@@ -21,9 +21,9 @@ export default function ReturnsRefundPage() {
 
               <p className="text-gray-600 leading-relaxed">
                 If you have an issue with your order or product, please reach out to our patient care team at{" "}
-                <span className="font-medium text-gray-900">+1 866 575 9247</span> or{" "}
-                <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">
-                  support@semaswiss.com
+                <span className="font-medium text-gray-900">+1 844 821 9675‬‬</span> or{" "}
+                <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">
+                  admin@semaswiss.com 
                 </a>.
               </p>
 
@@ -38,9 +38,9 @@ export default function ReturnsRefundPage() {
               </p>
               <p className="text-gray-600 leading-relaxed">
                 If your prescription medication arrives damaged or is lost during transit, please contact our patient care team at{" "}
-                <span className="font-medium text-gray-900">+1 866 575 9247</span> or{" "}
-                <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">
-                  support@semaswiss.com
+                <span className="font-medium text-gray-900">+1 844 821 9675‬‬</span> or{" "}
+                <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">
+                  admin@semaswiss.com 
                 </a>.
               </p>
 
@@ -52,9 +52,9 @@ export default function ReturnsRefundPage() {
               </p>
               <p className="text-gray-600 leading-relaxed">
                 To initiate a return, please contact our patient care team at{" "}
-                <span className="font-medium text-gray-900">+1 866 575 9247</span> or{" "}
-                <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">
-                  support@semaswiss.com
+                <span className="font-medium text-gray-900">+1 844 821 9675‬‬</span> or{" "}
+                <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">
+                  admin@semaswiss.com 
                 </a>. Include your order number, reason for the return, and the product name.
               </p>
               <p className="text-gray-600 leading-relaxed">
@@ -66,10 +66,10 @@ export default function ReturnsRefundPage() {
 
               <div className="bg-gray-50 p-6 md:p-8 rounded-lg mb-8">
                 <p className="text-gray-900 font-semibold mb-2">Address for Returns:</p>
-                <p className="text-gray-600 mb-1">Semaswiss / Manifest Pharmacy</p>
-                <p className="text-gray-600 mb-1">1018 S. Batesville Rd</p>
-                <p className="text-gray-600 mb-1">Building 4-A</p>
-                <p className="text-gray-600">Greer, SC 29650</p>
+                <p className="text-gray-600 mb-1">Nobleza-LLC</p>
+                <p className="text-gray-600 mb-1">30 N Gould St Ste R</p>
+                {/* <p className="text-gray-600 mb-1">Building 4-A</p> */}
+                <p className="text-gray-600">Sheridan, WY 82801</p>
               </div>
 
               <h2 className="text-2xl font-semibold text-gray-900 mb-4 mt-10">
@@ -83,9 +83,9 @@ export default function ReturnsRefundPage() {
               </p>
               <p className="text-gray-600 leading-relaxed">
                 If your package is lost in transit or does not arrive at the shipping address you provided, please contact our patient care team at{" "}
-                <span className="font-medium text-gray-900">+1 866 575 9247</span> or{" "}
-                <a href="mailto:support@semaswiss.com" className="text-sema-red hover:underline">
-                  support@semaswiss.com
+                <span className="font-medium text-gray-900">+1 844 821 9675‬‬</span> or{" "}
+                <a href="mailto:admin@semaswiss.com " className="text-sema-red hover:underline">
+                  admin@semaswiss.com 
                 </a>.
               </p>
 
